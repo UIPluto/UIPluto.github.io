@@ -1,16 +1,24 @@
 .about
 {
-    background-color: green;
+    color: white;
+    background-color: black;
+    text-align: center;
 }
 .skills
 {
-    color: gray;
+    color: white;
+    background-color: black;
+    text-align: center;
 }
 .projects
 {
-    color: gray;
+    color: white;
+    background-color: black;
+    text-align: center;
 }
 .contact
 {
-    color: gray;
+    color: white;
+    background-color: black;
+    text-align: center;
 }
