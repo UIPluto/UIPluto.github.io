@@ -33,6 +33,8 @@ body
     padding: 20px 10px;
     border-radius: 25%;
     background: black;
+    text-align: center;
+    vertical-align: middle;
 }
 .contact
 {
